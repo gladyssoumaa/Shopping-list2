@@ -5,3 +5,9 @@ sweets
 popcorn
 chocolate
 
+sugar
+cooking oil
+maize flour
+rice
+vegetables
+beans
